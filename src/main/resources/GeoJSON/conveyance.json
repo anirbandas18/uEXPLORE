@@ -1,0 +1,64 @@
+{
+  "conveyancePolygon": {
+    "id": "5941155sdffb5refrev12",
+    "mode": "driving",
+    "reuqestor": {
+      "id": "email@domain.com",
+      "timestamp": "2017-04-29T00:00:00.000Z"
+    },
+    "timeArea": [
+      {
+        "duration": 5,
+        "destination": [
+          {
+            "address": "address1",
+            "coordinates": {
+              "latitude": 77,
+              "longitude": 28
+            }
+          },
+          {
+            "address": "address1",
+            "coordinates": {
+              "latitude": 78,
+              "longitude": 27
+            }
+          },
+          {
+            "address": "address1",
+            "coordinates": {
+              "latitude": 79,
+              "longitude": 26
+            }
+          }
+        ]
+      },
+      {
+        "duration": 10,
+        "destination": [
+          {
+            "address": "address1",
+            "coordinates": {
+              "latitude": 77,
+              "longitude": 28
+            }
+          },
+          {
+            "address": "address1",
+            "coordinates": {
+              "latitude": 78,
+              "longitude": 27
+            }
+          },
+          {
+            "address": "address1",
+            "coordinates": {
+              "latitude": 79,
+              "longitude": 26
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

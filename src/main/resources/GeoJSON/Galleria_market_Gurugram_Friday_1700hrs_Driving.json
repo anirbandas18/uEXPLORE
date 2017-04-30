@@ -1,0 +1,4888 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0826045,
+          28.468842900000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46908','77.08263']",
+        "Destinatio": "['28.46908','77.08263']",
+        "Duration_m": 1.416666667,
+        "Address": "1302, DLF City IV, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.468842900000002,
+        "X_geocoded": 77.0826045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.09320720000001,
+          28.476468199999996
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46908','77.08263']",
+        "Destinatio": "['28.47590','77.08889']",
+        "Duration_m": 13.63333333,
+        "Address": "A-47/10, Street Number 51, DLF Phase 1, Sector 28, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.476468199999996,
+        "X_geocoded": 77.09320720000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.105503,
+          28.482931
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46908','77.08263']",
+        "Destinatio": "['28.48259','77.10543']",
+        "Duration_m": 16.53333333,
+        "Address": "2B, Garden Estate, Nathupur, Sector 24, Gurugram, Haryana 122010, India",
+        "mode": "driving",
+        "Y_geocoded": 28.482931,
+        "X_geocoded": 77.105503
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.12793509999999,
+          28.4824522
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46908','77.08263']",
+        "Destinatio": "['28.47888','77.12126']",
+        "Duration_m": 18.55,
+        "Address": "Mehrauli-Gurgaon Rd, Arjan Garh, Aya Nagar, New Delhi, Delhi 110047, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4824522,
+        "X_geocoded": 77.12793509999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08410699999999,
+          28.466490999999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46908','77.08263']",
+        "Destinatio": "['28.46685','77.08345']",
+        "Duration_m": 11.28333333,
+        "Address": "4424, DLF Phase IV, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.466490999999998,
+        "X_geocoded": 77.08410699999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0971527,
+          28.439618499999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46908','77.08263']",
+        "Destinatio": "['28.44361','77.09102']",
+        "Duration_m": 15.41666667,
+        "Address": "Sector 53, Gurugram, Haryana, India",
+        "mode": "driving",
+        "Y_geocoded": 28.439618499999998,
+        "X_geocoded": 77.0971527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08083520000001,
+          28.434584
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46908','77.08263']",
+        "Destinatio": "['28.43152','77.08212']",
+        "Duration_m": 17.06666667,
+        "Address": "H62, Manohara Marg, Sarswati Kunj II, Block B1, Sector 52, Gurugram, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.434584,
+        "X_geocoded": 77.08083520000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06581609999999,
+          28.4257305
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46908','77.08263']",
+        "Destinatio": "['28.42366','77.06584']",
+        "Duration_m": 18.55,
+        "Address": "95, Samaspur Village, Sector 51, Shamshpur, Haryana 122018, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4257305,
+        "X_geocoded": 77.06581609999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08038359999999,
+          28.467052799999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46908','77.08263']",
+        "Destinatio": "['28.46685','77.08079']",
+        "Duration_m": 1.883333333,
+        "Address": "4104, ? DLF Phase IV, DLF City Phase IV, DLF ???? ??? I, Sector 28, Gurugram, Haryana 122009, India",
+        "mode": "driving",
+        "Y_geocoded": 28.467052799999998,
+        "X_geocoded": 77.08038359999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0714744,
+          28.462200199999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46908','77.08263']",
+        "Destinatio": "['28.46457','77.07116']",
+        "Duration_m": 5.516666667000001,
+        "Address": "Appu Ghar Marg, Sector 29, Gurugram, Haryana 122009, India",
+        "mode": "driving",
+        "Y_geocoded": 28.462200199999998,
+        "X_geocoded": 77.0714744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0527972,
+          28.4680637
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46908','77.08263']",
+        "Destinatio": "['28.46770','77.05331']",
+        "Duration_m": 13.65,
+        "Address": "42, Gia Marg, Industrial Development Area, Sector 16, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4680637,
+        "X_geocoded": 77.0527972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0424969,
+          28.4786522
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46908','77.08263']",
+        "Destinatio": "['28.47888','77.04297']",
+        "Duration_m": 15.6,
+        "Address": "37C, Sanjay Gram Colony, Rajiv Nagar, Sector 13, Gurugram, Haryana 122001, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4786522,
+        "X_geocoded": 77.0424969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0398557,
+          28.5009235
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46908','77.08263']",
+        "Destinatio": "['28.49492','77.03949']",
+        "Duration_m": 21.03333333,
+        "Address": "Unnamed Road, Om Vihar, Palam Vihar Extension, Gurugram, Haryana 122015, India",
+        "mode": "driving",
+        "Y_geocoded": 28.5009235,
+        "X_geocoded": 77.0398557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0815292,
+          28.4689452
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46908','77.08263']",
+        "Destinatio": "['28.46908','77.08161']",
+        "Duration_m": 2.05,
+        "Address": "1314, DLF City IV, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4689452,
+        "X_geocoded": 77.0815292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0820272,
+          28.4777358
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46908','77.08263']",
+        "Destinatio": "['28.47783','77.08212']",
+        "Duration_m": 10.2,
+        "Address": "959, Housing Board Colony, Maruti Housing Colony, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4777358,
+        "X_geocoded": 77.0820272
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.083326,
+          28.471149
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47114','77.08339']",
+        "Destinatio": "['28.47114','77.08339']",
+        "Duration_m": 3.316666667,
+        "Address": "2816, DLF City IV, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.471149,
+        "X_geocoded": 77.083326
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.094532,
+          28.480342999999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47114','77.08339']",
+        "Destinatio": "['28.47941','77.09179']",
+        "Duration_m": 12.46666667,
+        "Address": "19, Mehrauli-Gurgaon Rd, Sikanderpur, DLF Phase 1, Sector 26, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.480342999999998,
+        "X_geocoded": 77.094532
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10754859999999,
+          28.484765799999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47114','77.08339']",
+        "Destinatio": "['28.48471','77.10876']",
+        "Duration_m": 17.86666667,
+        "Address": "S/8/16, DLF Phase 3, Sector 24, Gurugram, Haryana 122010, India",
+        "mode": "driving",
+        "Y_geocoded": 28.484765799999998,
+        "X_geocoded": 77.10754859999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.12793509999999,
+          28.4824522
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47114','77.08339']",
+        "Destinatio": "['28.47977','77.12440']",
+        "Duration_m": 19.03333333,
+        "Address": "Mehrauli-Gurgaon Rd, Arjan Garh, Aya Nagar, New Delhi, Delhi 110047, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4824522,
+        "X_geocoded": 77.12793509999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0852993,
+          28.4658717
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47114','77.08339']",
+        "Destinatio": "['28.46558','77.08545']",
+        "Duration_m": 10.86666667,
+        "Address": "4631, DLF Phase IV, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4658717,
+        "X_geocoded": 77.0852993
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0947785,
+          28.447691100000004
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47114','77.08339']",
+        "Destinatio": "['28.45599','77.09179']",
+        "Duration_m": 11.26666667,
+        "Address": "772, DLF Phase 5, Sector 43, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.447691100000004,
+        "X_geocoded": 77.0947785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.09018329999999,
+          28.440540600000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47114','77.08339']",
+        "Destinatio": "['28.44017','77.09229']",
+        "Duration_m": 13.63333333,
+        "Address": "Khatu Shyam Rd, Sector 52A, Gurugram, Haryana 122003, India",
+        "mode": "driving",
+        "Y_geocoded": 28.440540600000002,
+        "X_geocoded": 77.09018329999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0830569,
+          28.430251000000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47114','77.08339']",
+        "Destinatio": "['28.42863','77.08212']",
+        "Duration_m": 16.65,
+        "Address": "GH 21, Wazirabad, Sector 52, Gurugram, Haryana 122003, India",
+        "mode": "driving",
+        "Y_geocoded": 28.430251000000002,
+        "X_geocoded": 77.0830569
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0644007,
+          28.419706599999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47114','77.08339']",
+        "Destinatio": "['28.41953','77.06432']",
+        "Duration_m": 19.73333333,
+        "Address": "65, Nirvana Country, Sector 50, Gurugram, Haryana 122018, India",
+        "mode": "driving",
+        "Y_geocoded": 28.419706599999998,
+        "X_geocoded": 77.0644007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0791392,
+          28.465589399999995
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47114','77.08339']",
+        "Destinatio": "['28.46558','77.07879']",
+        "Duration_m": 3.166666667,
+        "Address": "143, Sushant Lok Phase I, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.465589399999995,
+        "X_geocoded": 77.0791392
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06617209999999,
+          28.4623098
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47114','77.08339']",
+        "Destinatio": "['28.46323','77.06646']",
+        "Duration_m": 5.5,
+        "Address": "Central Avenue, Block C, South City I, Sector 29, Gurugram, Haryana 122009, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4623098,
+        "X_geocoded": 77.06617209999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0528484,
+          28.4692144
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47114','77.08339']",
+        "Destinatio": "['28.46770','77.04919']",
+        "Duration_m": 13.05,
+        "Address": "Industrial Development Area, Sector 16, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4692144,
+        "X_geocoded": 77.0528484
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04816,
+          28.481031
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47114','77.08339']",
+        "Destinatio": "['28.47977','77.03984']",
+        "Duration_m": 17.03333333,
+        "Address": "1899/60/3, Lt Atul Kataria Marg, Rajiv Nagar, Sector 13, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.481031,
+        "X_geocoded": 77.04816
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0815081,
+          28.4710353
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47114','77.08339']",
+        "Destinatio": "['28.47114','77.08085']",
+        "Duration_m": 3.566666667,
+        "Address": "2562, Shri Ganesh Mandir Marg, DLF City IV, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4710353,
+        "X_geocoded": 77.0815081
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08362530000001,
+          28.4820225
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47114','77.08339']",
+        "Destinatio": "['28.48217','77.08212']",
+        "Duration_m": 12.88333333,
+        "Address": "K-3/35, Rd Number 3, Heritage City, Sector 25, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4820225,
+        "X_geocoded": 77.08362530000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.096941,
+          28.504438
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50486','77.09586']",
+        "Destinatio": "['28.50486','77.09586']",
+        "Duration_m": 24.3,
+        "Address": "G-79, Gurgaon - Delhi Expy, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Delhi 122001, India",
+        "mode": "driving",
+        "Y_geocoded": 28.504438,
+        "X_geocoded": 77.096941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.086426,
+          28.468792999999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50486','77.09586']",
+        "Destinatio": "['28.46882','77.08603']",
+        "Duration_m": 2.366666667,
+        "Address": "1012, DLF City IV, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.468792999999998,
+        "X_geocoded": 77.086426
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0989783,
+          28.468138399999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50486','77.09586']",
+        "Destinatio": "['28.46770','77.09858']",
+        "Duration_m": 14.6,
+        "Address": "7309, C-8, Block C, Sector 26A, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.468138399999997,
+        "X_geocoded": 77.0989783
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1111214,
+          28.461187300000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50486','77.09586']",
+        "Destinatio": "['28.45875','77.11343']",
+        "Duration_m": 16.8,
+        "Address": "DLF Golf Course, Sector 42, Gurugram, Haryana, India",
+        "mode": "driving",
+        "Y_geocoded": 28.461187300000002,
+        "X_geocoded": 77.1111214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1222002,
+          28.4425757
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50486','77.09586']",
+        "Destinatio": "['28.44473','77.11807']",
+        "Duration_m": 19.78333333,
+        "Address": "Gurgaon - Faridabad Rd, DLF Phase 5, Mandi, Gurugram, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4425757,
+        "X_geocoded": 77.1222002
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1168739,
+          28.428604200000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50486','77.09586']",
+        "Destinatio": "['28.42672','77.11597']",
+        "Duration_m": 21.31666667,
+        "Address": "Rajesh Pilot Rd, Sushant Lok 2, Sector 55, Gurugram, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.428604200000002,
+        "X_geocoded": 77.1168739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0822795,
+          28.464114399999996
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50486','77.09586']",
+        "Destinatio": "['28.46408','77.08212']",
+        "Duration_m": 9.666666667000001,
+        "Address": "5022, Palm Avenue, DLF Phase IV, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.464114399999996,
+        "X_geocoded": 77.0822795
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0777876,
+          28.454104700000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50486','77.09586']",
+        "Destinatio": "['28.45394','77.07703']",
+        "Duration_m": 8.233333333,
+        "Address": "53, Sector 43 Rd, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122001, India",
+        "mode": "driving",
+        "Y_geocoded": 28.454104700000002,
+        "X_geocoded": 77.0777876
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0629469,
+          28.4443326
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50486','77.09586']",
+        "Destinatio": "['28.44428','77.06277']",
+        "Duration_m": 12.46666667,
+        "Address": "1425, Block C, Uday Nagar, Sector 45, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4443326,
+        "X_geocoded": 77.0629469
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04640520000001,
+          28.445178100000003
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50486','77.09586']",
+        "Destinatio": "['28.44473','77.04616']",
+        "Duration_m": 14.9,
+        "Address": "129, Mohyal Colony, Sector 39, Gurugram, Haryana 122003, India",
+        "mode": "driving",
+        "Y_geocoded": 28.445178100000003,
+        "X_geocoded": 77.04640520000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0262559,
+          28.4528891
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50486','77.09586']",
+        "Destinatio": "['28.45204','77.02733']",
+        "Duration_m": 18.8,
+        "Address": "559/17, Beri Rd, Shivaji Nagar, Sector 11, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4528891,
+        "X_geocoded": 77.0262559
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0785642,
+          28.4688538
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50486','77.09586']",
+        "Destinatio": "['28.46882','77.07820']",
+        "Duration_m": 3.833333333,
+        "Address": "1065, Shri Ganesh Mandir Marg, Block A, Sushant Lok Phase I, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4688538,
+        "X_geocoded": 77.0785642
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.03868979999999,
+          28.4486316
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50486','77.09586']",
+        "Destinatio": "['28.47621','77.06880']",
+        "Duration_m": 7.5,
+        "Address": "1202, Delhi - Jaipur Expy, Block B, IFFCO Colony, Sector 17, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4486316,
+        "X_geocoded": 77.03868979999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.07037159999999,
+          28.490817
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50486','77.09586']",
+        "Destinatio": "['28.49112','77.06276']",
+        "Duration_m": 13.91666667,
+        "Address": "Sub.Major Laxmi Chand Road, Maruti Udyog, Sector 18, Gurugram, Haryana 122008, India",
+        "mode": "driving",
+        "Y_geocoded": 28.490817,
+        "X_geocoded": 77.07037159999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06957170000001,
+          28.504824100000004
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50486','77.09586']",
+        "Destinatio": "['28.50486','77.06838']",
+        "Duration_m": 18.41666667,
+        "Address": "Old Delhi Gurgaon Rd, IDPL Twp, Sector 22A, Sector 22, Gurugram, Delhi 122017, India",
+        "mode": "driving",
+        "Y_geocoded": 28.504824100000004,
+        "X_geocoded": 77.06957170000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0942072,
+          28.510959000000003
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50899','77.09738']",
+        "Destinatio": "['28.50899','77.09738']",
+        "Duration_m": 20.05,
+        "Address": "Bike Ln, Rajokri Village, Rajokri, Gurugram, Haryana 110038, India",
+        "mode": "driving",
+        "Y_geocoded": 28.510959000000003,
+        "X_geocoded": 77.0942072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08789200000001,
+          28.469694
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50899','77.09738']",
+        "Destinatio": "['28.46949','77.08838']",
+        "Duration_m": 11.91666667,
+        "Address": "GH-4, Chakkarpur, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.469694,
+        "X_geocoded": 77.08789200000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.103166,
+          28.467852
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50899','77.09738']",
+        "Destinatio": "['28.46770','77.10352']",
+        "Duration_m": 15.95,
+        "Address": "D-1/17, Block D, Sector 26A, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.467852,
+        "X_geocoded": 77.103166
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1111214,
+          28.461187300000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50899','77.09738']",
+        "Destinatio": "['28.45786','77.11656']",
+        "Duration_m": 16.8,
+        "Address": "DLF Golf Course, Sector 42, Gurugram, Haryana, India",
+        "mode": "driving",
+        "Y_geocoded": 28.461187300000002,
+        "X_geocoded": 77.1111214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1222002,
+          28.4425757
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50899','77.09738']",
+        "Destinatio": "['28.44218','77.12206']",
+        "Duration_m": 19.48333333,
+        "Address": "Gurgaon - Faridabad Rd, DLF Phase 5, Mandi, Gurugram, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4425757,
+        "X_geocoded": 77.1222002
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.081849,
+          28.462008
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50899','77.09738']",
+        "Destinatio": "['28.46191','77.08212']",
+        "Duration_m": 6.4,
+        "Address": "5536, DLF Phase IV, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.462008,
+        "X_geocoded": 77.081849
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.075325,
+          28.449777
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50899','77.09738']",
+        "Destinatio": "['28.44981','77.07550']",
+        "Duration_m": 10.01666667,
+        "Address": "145, Sector 44 Rd, Sector 44, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.449777,
+        "X_geocoded": 77.075325
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0605989,
+          28.4417027
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50899','77.09738']",
+        "Destinatio": "['28.44194','77.06083']",
+        "Duration_m": 12.13333333,
+        "Address": "83, Netaji Subhash Marg, Block H, Block D, Greenwood City, Sector 46, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4417027,
+        "X_geocoded": 77.0605989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04384509999998,
+          28.4464392
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50899','77.09738']",
+        "Destinatio": "['28.44218','77.04217']",
+        "Duration_m": 14.65,
+        "Address": "40, Institutional Area, Sector 32, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4464392,
+        "X_geocoded": 77.04384509999998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0196822,
+          28.449649800000003
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50899','77.09738']",
+        "Destinatio": "['28.44980','77.01950']",
+        "Duration_m": 17.86666667,
+        "Address": "590/18, Heera Nagar, Sector 11, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.449649800000003,
+        "X_geocoded": 77.0196822
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0767557,
+          28.463441200000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50899','77.09738']",
+        "Destinatio": "['28.46949','77.07585']",
+        "Duration_m": 2.8,
+        "Address": "718, Block A, Sushant Lok Phase I, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.463441200000002,
+        "X_geocoded": 77.0767557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06389909999999,
+          28.479176300000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50899','77.09738']",
+        "Destinatio": "['28.47876','77.06480']",
+        "Duration_m": 17.25,
+        "Address": "851, Sector 17A, Sector 17, Gurugram, Haryana 122001, India",
+        "mode": "driving",
+        "Y_geocoded": 28.479176300000002,
+        "X_geocoded": 77.06389909999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0596795,
+          28.493800800000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50899','77.09738']",
+        "Destinatio": "['28.49346','77.06082']",
+        "Duration_m": 23.45,
+        "Address": "8, Old Delhi Gurgaon Rd, Om Vihar, Palam Vihar Extension, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.493800800000002,
+        "X_geocoded": 77.0596795
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06688100000001,
+          28.5088624
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50899','77.09738']",
+        "Destinatio": "['28.50899','77.06685']",
+        "Duration_m": 21.0,
+        "Address": "706D, Sector 22B, Sector 22A, Sector 22, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.5088624,
+        "X_geocoded": 77.06688100000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08309679999999,
+          28.468406899999994
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51175','77.09840']",
+        "Destinatio": "['28.46855','77.08345']",
+        "Duration_m": 1.066666667,
+        "Address": "1002, Hamilton Ct Rd, DLF City IV, Sector 28, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.468406899999994,
+        "X_geocoded": 77.08309679999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0938294,
+          28.4737019
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51175','77.09840']",
+        "Destinatio": "['28.47083','77.09308']",
+        "Duration_m": 10.95,
+        "Address": "Golf Course Road, Chakkarpur, Sector 28, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4737019,
+        "X_geocoded": 77.0938294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1123079,
+          28.46668
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51175','77.09840']",
+        "Destinatio": "['28.46770','77.11093']",
+        "Duration_m": 14.58333333,
+        "Address": "Gurgaon - Faridabad Rd, DLF Golf Course, Sector 42, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.46668,
+        "X_geocoded": 77.1123079
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.20715030000001,
+          28.409258
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51175','77.09840']",
+        "Destinatio": "['28.45652','77.12126']",
+        "Duration_m": 16.9,
+        "Address": "Gurgaon - Faridabad Rd, Block E, Aya Nagar Extension, Aya Nagar, Gurugram, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.409258,
+        "X_geocoded": 77.20715030000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1271663,
+          28.4395523
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51175','77.09840']",
+        "Destinatio": "['28.44047','77.12473']",
+        "Duration_m": 18.91666667,
+        "Address": "Gurgaon - Faridabad Rd, Mandi, Gurugram, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4395523,
+        "X_geocoded": 77.1271663
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0825498,
+          28.4667347
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51175','77.09840']",
+        "Destinatio": "['28.46633','77.08263']",
+        "Duration_m": 9.666666667000001,
+        "Address": "4302, DLF Phase IV, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4667347,
+        "X_geocoded": 77.0825498
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0767557,
+          28.463441200000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51175','77.09840']",
+        "Destinatio": "['28.45757','77.08212']",
+        "Duration_m": 8.933333333,
+        "Address": "901, Block C, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.463441200000002,
+        "X_geocoded": 77.0767557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0730029,
+          28.4434511
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51175','77.09840']",
+        "Destinatio": "['28.44361','77.07322']",
+        "Duration_m": 10.98333333,
+        "Address": "640, Vikas Marg, Kanhai, Sector 45, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4434511,
+        "X_geocoded": 77.0730029
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.058408,
+          28.438688
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51175','77.09840']",
+        "Destinatio": "['28.43843','77.05793']",
+        "Duration_m": 13.51666667,
+        "Address": "57, Block H, Block D, Greenwood City, Sector 46, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.438688,
+        "X_geocoded": 77.058408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04858349999999,
+          28.4347874
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51175','77.09840']",
+        "Destinatio": "['28.44047','77.03951']",
+        "Duration_m": 16.8,
+        "Address": "1, CH Baktawar Singh Rd, Medicity, Islampur Colony, Sector 39, Gurugram, Haryana 122001, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4347874,
+        "X_geocoded": 77.04858349999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0826715,
+          28.4679614
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51175','77.09840']",
+        "Destinatio": "['28.46770','77.08047']",
+        "Duration_m": 1.05,
+        "Address": "Hamilton Ct Rd, DLF Phase IV, Sector 28, Gurugram, Haryana 122009, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4679614,
+        "X_geocoded": 77.0826715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06652,
+          28.466944800000004
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51175','77.09840']",
+        "Destinatio": "['28.47083','77.07116']",
+        "Duration_m": 3.733333333,
+        "Address": "Sector 29, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.466944800000004,
+        "X_geocoded": 77.06652
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.05887,
+          28.481648999999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51175','77.09840']",
+        "Destinatio": "['28.48259','77.05881']",
+        "Duration_m": 19.05,
+        "Address": "258, Sukhrali Enclave, Sector 17, Gurugram, Haryana 122001, India",
+        "mode": "driving",
+        "Y_geocoded": 28.481648999999997,
+        "X_geocoded": 77.05887
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0594735,
+          28.493956199999996
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51175','77.09840']",
+        "Destinatio": "['28.49697','77.05792']",
+        "Duration_m": 15.88333333,
+        "Address": "15, Carterpuri Marg, Om Vihar, Palam Vihar Extension, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.493956199999996,
+        "X_geocoded": 77.0594735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06562729999999,
+          28.5117613
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51175','77.09840']",
+        "Destinatio": "['28.51175','77.06583']",
+        "Duration_m": 21.53333333,
+        "Address": "818, Pocket E, Sector 21E, Sector 23, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.5117613,
+        "X_geocoded": 77.06562729999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1053673,
+          28.512272499999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51587','77.09993']",
+        "Destinatio": "['28.51587','77.09993']",
+        "Duration_m": 21.95,
+        "Address": "Rajokri Village, Rajokri, New Delhi, Delhi, India",
+        "mode": "driving",
+        "Y_geocoded": 28.512272499999998,
+        "X_geocoded": 77.1053673
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08600240000001,
+          28.469540999999996
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51587','77.09993']",
+        "Destinatio": "['28.46983','77.08545']",
+        "Duration_m": 2.95,
+        "Address": "1113, DLF City IV, Sector 28, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.469540999999996,
+        "X_geocoded": 77.08600240000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.09767480000001,
+          28.4722768
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51587','77.09993']",
+        "Destinatio": "['28.47217','77.09777']",
+        "Duration_m": 12.48333333,
+        "Address": "719, A-13 St, Block A, Sector 26A, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4722768,
+        "X_geocoded": 77.09767480000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1123079,
+          28.46668
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51587','77.09993']",
+        "Destinatio": "['28.46770','77.11504']",
+        "Duration_m": 14.95,
+        "Address": "Gurgaon - Faridabad Rd, DLF Golf Course, Sector 42, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.46668,
+        "X_geocoded": 77.1123079
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.20715030000001,
+          28.409258
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51587','77.09993']",
+        "Destinatio": "['28.45562','77.12439']",
+        "Duration_m": 16.4,
+        "Address": "Gurgaon - Faridabad Rd, Block E, Aya Nagar Extension, Aya Nagar, Gurugram, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.409258,
+        "X_geocoded": 77.20715030000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1391916,
+          28.431203999999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51587','77.09993']",
+        "Destinatio": "['28.43792','77.12872']",
+        "Duration_m": 21.81666667,
+        "Address": "Gurgaon - Faridabad Rd, Baliawas, Bandhwari, Haryana 122005, India",
+        "mode": "driving",
+        "Y_geocoded": 28.431203999999997,
+        "X_geocoded": 77.1391916
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0822795,
+          28.464114399999996
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51587','77.09993']",
+        "Destinatio": "['28.46426','77.08339']",
+        "Duration_m": 9.383333333,
+        "Address": "5022, Palm Avenue, DLF Phase IV, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.464114399999996,
+        "X_geocoded": 77.0822795
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0825388,
+          28.4530757
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51587','77.09993']",
+        "Destinatio": "['28.45323','77.08212']",
+        "Duration_m": 9.8,
+        "Address": "1545-1546, Vyapar Kendra Rd Block C Rd, Block C, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122003, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4530757,
+        "X_geocoded": 77.0825388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0723207,
+          28.439340100000003
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51587','77.09993']",
+        "Destinatio": "['28.44017','77.07195']",
+        "Duration_m": 12.05,
+        "Address": "Rd Number D2, Block D, Indira Colony 2, Sector 52, Gurugram, Haryana 122003, India",
+        "mode": "driving",
+        "Y_geocoded": 28.439340100000003,
+        "X_geocoded": 77.0723207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0561232,
+          28.436063899999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51587','77.09993']",
+        "Destinatio": "['28.43609','77.05600']",
+        "Duration_m": 15.4,
+        "Address": "1571, Samaspur Tigra Rd, Residency Green, Sector 46, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.436063899999997,
+        "X_geocoded": 77.0561232
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.03580600000001,
+          28.434904
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51587','77.09993']",
+        "Destinatio": "['28.43792','77.03551']",
+        "Duration_m": 15.31666667,
+        "Address": "133, Sohna Rd, Islampur Village, Sector 38, Gurugram, Haryana 122018, India",
+        "mode": "driving",
+        "Y_geocoded": 28.434904,
+        "X_geocoded": 77.03580600000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.07705959999998,
+          28.4677624
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51587','77.09993']",
+        "Destinatio": "['28.46770','77.07800']",
+        "Duration_m": 1.933333333,
+        "Address": "1, DLF Galleria Rd, Block B, Sushant Lok, Gurugram, Haryana 122009, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4677624,
+        "X_geocoded": 77.07705959999998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.062333,
+          28.469299
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51587','77.09993']",
+        "Destinatio": "['28.47217','77.06646']",
+        "Duration_m": 5.116666667,
+        "Address": "19-20, Leisure Valley Rd, Sector 29, Gurugram, Haryana 122007, India",
+        "mode": "driving",
+        "Y_geocoded": 28.469299,
+        "X_geocoded": 77.062333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.059449,
+          28.489352
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51587','77.09993']",
+        "Destinatio": "['28.48471','77.05548']",
+        "Duration_m": 12.95,
+        "Address": "1, Old Delhi Gurgaon Rd, Sarhaul Abadi Village, Sector 18, Gurugram, Haryana 122001, India",
+        "mode": "driving",
+        "Y_geocoded": 28.489352,
+        "X_geocoded": 77.059449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.055746,
+          28.499409999999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.51587','77.09993']",
+        "Destinatio": "['28.49931','77.05598']",
+        "Duration_m": 17.2,
+        "Address": "4310, Palam Vihar Extension, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.499409999999997,
+        "X_geocoded": 77.055746
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0872873,
+          28.4711275
+        ]
+      },
+      "properties": {
+        "Origin": "['28.52276','77.10248']",
+        "Destinatio": "['28.47110','77.08744']",
+        "Duration_m": 6.433333332999999,
+        "Address": "705, A Block, Chakkarpur, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4711275,
+        "X_geocoded": 77.0872873
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.102693,
+          28.473613
+        ]
+      },
+      "properties": {
+        "Origin": "['28.52276','77.10248']",
+        "Destinatio": "['28.47351','77.10247']",
+        "Duration_m": 15.35,
+        "Address": "17-18, Kachnar Marg, G Block, DLF Phase 1, Sector 26, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.473613,
+        "X_geocoded": 77.102693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.20715030000001,
+          28.409258
+        ]
+      },
+      "properties": {
+        "Origin": "['28.52276','77.10248']",
+        "Destinatio": "['28.45428','77.12908']",
+        "Duration_m": 16.53333333,
+        "Address": "Gurgaon - Faridabad Rd, Block E, Aya Nagar Extension, Aya Nagar, Gurugram, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.409258,
+        "X_geocoded": 77.20715030000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1391916,
+          28.431203999999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.52276','77.10248']",
+        "Destinatio": "['28.43367','77.13537']",
+        "Duration_m": 24.5,
+        "Address": "Gurgaon - Faridabad Rd, Baliawas, Bandhwari, Haryana 122005, India",
+        "mode": "driving",
+        "Y_geocoded": 28.431203999999997,
+        "X_geocoded": 77.1391916
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0841241,
+          28.462411199999995
+        ]
+      },
+      "properties": {
+        "Origin": "['28.52276','77.10248']",
+        "Destinatio": "['28.46220','77.08415']",
+        "Duration_m": 10.03333333,
+        "Address": "The Orchid Crescent, DLF Phase IV, Gurugram, Haryana 122009, India",
+        "mode": "driving",
+        "Y_geocoded": 28.462411199999995,
+        "X_geocoded": 77.0841241
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.081994,
+          28.448466999999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.52276','77.10248']",
+        "Destinatio": "['28.44889','77.08212']",
+        "Duration_m": 9.366666667,
+        "Address": "1707, St Thomas Marg, Sector 43, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.448466999999997,
+        "X_geocoded": 77.081994
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.070838,
+          28.437325399999995
+        ]
+      },
+      "properties": {
+        "Origin": "['28.52276','77.10248']",
+        "Destinatio": "['28.43742','77.07093']",
+        "Duration_m": 13.43333333,
+        "Address": "322, Indira Colony, Indira Colony 1, Sector 52, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.437325399999995,
+        "X_geocoded": 77.070838
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0531337,
+          28.4325465
+        ]
+      },
+      "properties": {
+        "Origin": "['28.52276','77.10248']",
+        "Destinatio": "['28.43257','77.05310']",
+        "Duration_m": 15.13333333,
+        "Address": "1240, Huda Colony, Sector 46, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4325465,
+        "X_geocoded": 77.0531337
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.02766,
+          28.4388158
+        ]
+      },
+      "properties": {
+        "Origin": "['28.52276','77.10248']",
+        "Destinatio": "['28.43367','77.02886']",
+        "Duration_m": 19.11666667,
+        "Address": "Sector 33, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4388158,
+        "X_geocoded": 77.02766
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0755138,
+          28.4676321
+        ]
+      },
+      "properties": {
+        "Origin": "['28.52276','77.10248']",
+        "Destinatio": "['28.46770','77.07553']",
+        "Duration_m": 2.3,
+        "Address": "24, Sushant Lok Phase I, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4676321,
+        "X_geocoded": 77.0755138
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06191609999999,
+          28.473666899999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.52276','77.10248']",
+        "Destinatio": "['28.47351','77.06176']",
+        "Duration_m": 11.05,
+        "Address": "1350, Block C, Sukhrali, Sector 17, Gurugram, Haryana 122007, India",
+        "mode": "driving",
+        "Y_geocoded": 28.473666899999998,
+        "X_geocoded": 77.06191609999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.059449,
+          28.489352
+        ]
+      },
+      "properties": {
+        "Origin": "['28.52276','77.10248']",
+        "Destinatio": "['28.48641','77.05281']",
+        "Duration_m": 13.8,
+        "Address": "1, Old Delhi Gurgaon Rd, Sarhaul Abadi Village, Sector 18, Gurugram, Haryana 122001, India",
+        "mode": "driving",
+        "Y_geocoded": 28.489352,
+        "X_geocoded": 77.059449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.052679,
+          28.503966
+        ]
+      },
+      "properties": {
+        "Origin": "['28.52276','77.10248']",
+        "Destinatio": "['28.50282','77.05308']",
+        "Duration_m": 18.11666667,
+        "Address": "131, Sector 23A, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.503966,
+        "X_geocoded": 77.052679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0826045,
+          28.468842900000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46887','77.08308']",
+        "Destinatio": "['28.46887','77.08308']",
+        "Duration_m": 1.333333333,
+        "Address": "1302, DLF City IV, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.468842900000002,
+        "X_geocoded": 77.0826045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0912962,
+          28.473470199999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46887','77.08308']",
+        "Destinatio": "['28.47366','77.09144']",
+        "Duration_m": 12.6,
+        "Address": "A55-5, Street Number 55, Chakkarpur, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.473470199999998,
+        "X_geocoded": 77.0912962
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.11072390000001,
+          28.474980300000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46887','77.08308']",
+        "Destinatio": "['28.47553','77.10952']",
+        "Duration_m": 15.18333333,
+        "Address": "Sunset Blvd, G Block, DLF Phase 1, Sector 26, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.474980300000002,
+        "X_geocoded": 77.11072390000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0825498,
+          28.4667347
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46887','77.08308']",
+        "Destinatio": "['28.46653','77.08308']",
+        "Duration_m": 10.26666667,
+        "Address": "4302, DLF Phase IV, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4667347,
+        "X_geocoded": 77.0825498
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.085378,
+          28.458246999999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46887','77.08308']",
+        "Destinatio": "['28.45807','77.08568']",
+        "Duration_m": 8.766666667,
+        "Address": "1054I, Block C2, DLF Garden Villas, Sector 43, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.458246999999997,
+        "X_geocoded": 77.085378
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0824792,
+          28.4414625
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46887','77.08308']",
+        "Destinatio": "['28.44238','77.08212']",
+        "Duration_m": 11.4,
+        "Address": "1699, Ardee City Rd, Housing Board Colony, Wazirabad, Sector 52, Gurugram, Haryana 122003, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4414625,
+        "X_geocoded": 77.0824792
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0699702,
+          28.432917100000004
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46887','77.08308']",
+        "Destinatio": "['28.43329','77.06940']",
+        "Duration_m": 14.98333333,
+        "Address": "Today Blossoms II, Sector 51, Gurugram, Haryana 122018, India",
+        "mode": "driving",
+        "Y_geocoded": 28.432917100000004,
+        "X_geocoded": 77.0699702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0496722,
+          28.429769699999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46887','77.08308']",
+        "Destinatio": "['28.43023','77.05116']",
+        "Duration_m": 16.25,
+        "Address": "209, Malibu Town, Sector 47, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.429769699999998,
+        "X_geocoded": 77.0496722
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08038359999999,
+          28.467052799999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46887','77.08308']",
+        "Destinatio": "['28.46725','77.08055']",
+        "Duration_m": 1.55,
+        "Address": "4104, ? DLF Phase IV, DLF City Phase IV, DLF ???? ??? I, Sector 28, Gurugram, Haryana 122009, India",
+        "mode": "driving",
+        "Y_geocoded": 28.467052799999998,
+        "X_geocoded": 77.08038359999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06652,
+          28.466944800000004
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46887','77.08308']",
+        "Destinatio": "['28.46770','77.07059']",
+        "Duration_m": 5.15,
+        "Address": "Sector 29, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.466944800000004,
+        "X_geocoded": 77.06652
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0545047,
+          28.475622899999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46887','77.08308']",
+        "Destinatio": "['28.47553','77.05471']",
+        "Duration_m": 11.4,
+        "Address": "1800, Old Bypass Rd, Sukhrali, Sector 17, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.475622899999998,
+        "X_geocoded": 77.0545047
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0512248,
+          28.505297100000003
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46887','77.08308']",
+        "Destinatio": "['28.50517','77.05114']",
+        "Duration_m": 19.73333333,
+        "Address": "4315, Sector 23A, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.505297100000003,
+        "X_geocoded": 77.0512248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0823452,
+          28.469732500000003
+        ]
+      },
+      "properties": {
+        "Origin": "['28.46887','77.08308']",
+        "Destinatio": "['28.46915','77.08212']",
+        "Duration_m": 1.783333333,
+        "Address": "1701, DLF City IV, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.469732500000003,
+        "X_geocoded": 77.0823452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0844107,
+          28.4711691
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47063','77.08454']",
+        "Destinatio": "['28.47063','77.08454']",
+        "Duration_m": 3.466666667,
+        "Address": "787, DLF City IV, Sector 28, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4711691,
+        "X_geocoded": 77.0844107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0953725,
+          28.476371899999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47063','77.08454']",
+        "Destinatio": "['28.47621','77.09544']",
+        "Duration_m": 12.96666667,
+        "Address": "8-9, Street Number 23 A, Block A, Sector 26A, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.476371899999997,
+        "X_geocoded": 77.0953725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.12577519999999,
+          28.4807925
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47063','77.08454']",
+        "Destinatio": "['28.47664','77.11343']",
+        "Duration_m": 19.18333333,
+        "Address": "Arjan Garh, Aya Nagar, New Delhi, Delhi, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4807925,
+        "X_geocoded": 77.12577519999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.084441,
+          28.464834999999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47063','77.08454']",
+        "Destinatio": "['28.46477','77.08454']",
+        "Duration_m": 10.28333333,
+        "Address": "4610, DLF Phase IV, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.464834999999997,
+        "X_geocoded": 77.084441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0868613,
+          28.451914600000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47063','77.08454']",
+        "Destinatio": "['28.45394','77.08720']",
+        "Duration_m": 12.18333333,
+        "Address": "2930, Block C, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.451914600000002,
+        "X_geocoded": 77.0868613
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0822349,
+          28.439163300000004
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47063','77.08454']",
+        "Destinatio": "['28.43876','77.08212']",
+        "Duration_m": 13.2,
+        "Address": "1530, Housing Board Colony, Ardee City, Sector 52, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.439163300000004,
+        "X_geocoded": 77.0822349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0682469,
+          28.4305642
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47063','77.08454']",
+        "Destinatio": "['28.43054','77.06839']",
+        "Duration_m": 16.63333333,
+        "Address": "630, Housing Board Colony, Orchid Island, Sector 51, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4305642,
+        "X_geocoded": 77.0682469
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0482423,
+          28.426600399999995
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47063','77.08454']",
+        "Destinatio": "['28.42672','77.04826']",
+        "Duration_m": 22.43333333,
+        "Address": "89, Malibu Town, Sector 47, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.426600399999995,
+        "X_geocoded": 77.0482423
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.078533,
+          28.4665287
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47063','77.08454']",
+        "Destinatio": "['28.46658','77.07820']",
+        "Duration_m": 3.066666667,
+        "Address": "290, Sushant Lok Phase I, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4665287,
+        "X_geocoded": 77.078533
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.065174,
+          28.467655999999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47063','77.08454']",
+        "Destinatio": "['28.46770','77.06565']",
+        "Duration_m": 5.833333333,
+        "Address": "43-47, Sector 29, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.467655999999998,
+        "X_geocoded": 77.065174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0506512,
+          28.476885
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47063','77.08454']",
+        "Destinatio": "['28.47664','77.05080']",
+        "Duration_m": 14.45,
+        "Address": "234, Sector 14 Rd, Sector 14, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.476885,
+        "X_geocoded": 77.0506512
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0483027,
+          28.5089511
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47063','77.08454']",
+        "Destinatio": "['28.50868','77.04824']",
+        "Duration_m": 21.5,
+        "Address": "#399, Major Sushil Aima Marg, Huda, Sector 23, Gurugram, Haryana 122001, India",
+        "mode": "driving",
+        "Y_geocoded": 28.5089511,
+        "X_geocoded": 77.0483027
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08246679999999,
+          28.471149600000004
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47063','77.08454']",
+        "Destinatio": "['28.47132','77.08212']",
+        "Duration_m": 3.416666667,
+        "Address": "2547, Shri Ganesh Mandir Marg, DLF City IV, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.471149600000004,
+        "X_geocoded": 77.08246679999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08627320000001,
+          28.4725586
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47239','77.08599']",
+        "Destinatio": "['28.47239','77.08599']",
+        "Duration_m": 6.45,
+        "Address": "601, A Block, Chakkarpur, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4725586,
+        "X_geocoded": 77.08627320000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10035309999999,
+          28.478288
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47239','77.08599']",
+        "Destinatio": "['28.47876','77.09943']",
+        "Duration_m": 17.85,
+        "Address": "6588, Viridh Ashram Marg, Sikanderpur, Sector 26, Gurugram, Delhi 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.478288,
+        "X_geocoded": 77.10035309999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.12577519999999,
+          28.4807925
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47239','77.08599']",
+        "Destinatio": "['28.47754','77.11657']",
+        "Duration_m": 20.48333333,
+        "Address": "Arjan Garh, Aya Nagar, New Delhi, Delhi, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4807925,
+        "X_geocoded": 77.12577519999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0851955,
+          28.462432
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47239','77.08599']",
+        "Destinatio": "['28.46302','77.08599']",
+        "Duration_m": 8.566666667,
+        "Address": "Aster Ave, DLF Phase IV, Gurugram, Haryana 122009, India",
+        "mode": "driving",
+        "Y_geocoded": 28.462432,
+        "X_geocoded": 77.0851955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.09069559999999,
+          28.4502435
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47239','77.08599']",
+        "Destinatio": "['28.44981','77.08873']",
+        "Duration_m": 11.41666667,
+        "Address": "162, St Thomas Marg, Block C, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4502435,
+        "X_geocoded": 77.09069559999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08083520000001,
+          28.434584
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47239','77.08599']",
+        "Destinatio": "['28.43586','77.08212']",
+        "Duration_m": 16.5,
+        "Address": "H62, Manohara Marg, Sarswati Kunj II, Block B1, Sector 52, Gurugram, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.434584,
+        "X_geocoded": 77.08083520000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06804559999999,
+          28.425995
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47239','77.08599']",
+        "Destinatio": "['28.42641','77.06686']",
+        "Duration_m": 18.68333333,
+        "Address": "579-B, Orchid Island, Sector 51, Gurugram, Haryana 122003, India",
+        "mode": "driving",
+        "Y_geocoded": 28.425995,
+        "X_geocoded": 77.06804559999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0434944,
+          28.4211081
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47239','77.08599']",
+        "Destinatio": "['28.42086','77.04343']",
+        "Duration_m": 23.26666667,
+        "Address": "13, Malibu Towne, Malibu Town, Sector 47, Gurugram, Haryana 122018, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4211081,
+        "X_geocoded": 77.0434944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0756978,
+          28.4658867
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47239','77.08599']",
+        "Destinatio": "['28.46591','77.07585']",
+        "Duration_m": 3.016666667,
+        "Address": "359, Sushant Lok Phase I, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4658867,
+        "X_geocoded": 77.0756978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.062333,
+          28.469299
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47239','77.08599']",
+        "Destinatio": "['28.46770','77.06072']",
+        "Duration_m": 7.45,
+        "Address": "19-20, Leisure Valley Rd, Sector 29, Gurugram, Haryana 122007, India",
+        "mode": "driving",
+        "Y_geocoded": 28.469299,
+        "X_geocoded": 77.062333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.05011329999999,
+          28.476399600000004
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47239','77.08599']",
+        "Destinatio": "['28.47754','77.04767']",
+        "Duration_m": 15.35,
+        "Address": "384, Sector 14, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.476399600000004,
+        "X_geocoded": 77.05011329999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.081796,
+          28.47362
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47239','77.08599']",
+        "Destinatio": "['28.47349','77.08212']",
+        "Duration_m": 5.983333332999999,
+        "Address": "409, Maruti Housing Colony, Sector 28, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.47362,
+        "X_geocoded": 77.081796
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0853512,
+          28.4724602
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47321','77.08415']",
+        "Destinatio": "['28.47321','77.08415']",
+        "Duration_m": 5.65,
+        "Address": "35, A Block, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4724602,
+        "X_geocoded": 77.0853512
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.095505,
+          28.483101
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47321','77.08415']",
+        "Destinatio": "['28.48292','77.09470']",
+        "Duration_m": 11.95,
+        "Address": "shop no. 1006, Mehrauli-Gurgaon Rd, Nathupur, Sector 24, Sikanderpur Ghosi, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.483101,
+        "X_geocoded": 77.095505
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1107911,
+          28.486552399999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47321','77.08415']",
+        "Destinatio": "['28.48641','77.11142']",
+        "Duration_m": 21.05,
+        "Address": "S-11/11,12, DLF Phase 3, Sector 24, Gurugram, Haryana 122010, India",
+        "mode": "driving",
+        "Y_geocoded": 28.486552399999997,
+        "X_geocoded": 77.1107911
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.12732209999999,
+          28.4805445
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47321','77.08415']",
+        "Destinatio": "['28.48111','77.12909']",
+        "Duration_m": 21.71666667,
+        "Address": "16/996-H, Pyarelal Rd, Aya Nagar Phase 2, Aya Nagar, New Delhi, Delhi 122005, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4805445,
+        "X_geocoded": 77.12732209999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0872584,
+          28.464351
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47321','77.08415']",
+        "Destinatio": "['28.46430','77.08744']",
+        "Duration_m": 9.95,
+        "Address": "6708, DLF Phase IV, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.464351,
+        "X_geocoded": 77.0872584
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0949103,
+          28.4519202
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47321','77.08415']",
+        "Destinatio": "['28.45248','77.09469']",
+        "Duration_m": 13.6,
+        "Address": "Harizan Colony, DLF Phase 5, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4519202,
+        "X_geocoded": 77.0949103
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1022234,
+          28.4333723
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47321','77.08415']",
+        "Destinatio": "['28.43742','77.09331']",
+        "Duration_m": 18.71666667,
+        "Address": "Unnamed Road, IILM Institute, Sector 52A, Gurugram, Haryana 122003, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4333723,
+        "X_geocoded": 77.1022234
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0812268,
+          28.424243699999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47321','77.08415']",
+        "Destinatio": "['28.42429','77.08212']",
+        "Duration_m": 18.55,
+        "Address": "B1/37, Sushant Lok III, Sector 57, Gurugram, Haryana 122413, India",
+        "mode": "driving",
+        "Y_geocoded": 28.424243699999998,
+        "X_geocoded": 77.0812268
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.076842,
+          28.464859999999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47321','77.08415']",
+        "Destinatio": "['28.46430','77.07679']",
+        "Duration_m": 5.033333333,
+        "Address": "450-B, Sushant Lok Phase I, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.464859999999998,
+        "X_geocoded": 77.076842
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.060917,
+          28.462334000000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47321','77.08415']",
+        "Destinatio": "['28.46189','77.06176']",
+        "Duration_m": 10.78333333,
+        "Address": "1, South City I, Sector 30, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.462334000000002,
+        "X_geocoded": 77.060917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04597640000001,
+          28.4676929
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47321','77.08415']",
+        "Destinatio": "['28.46770','77.04590']",
+        "Duration_m": 13.26666667,
+        "Address": "4/7, Industrial Development Area, Sector 16, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4676929,
+        "X_geocoded": 77.04597640000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0341376,
+          28.480318199999996
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47321','77.08415']",
+        "Destinatio": "['28.48111','77.03514']",
+        "Duration_m": 20.48333333,
+        "Address": "Block A, Sheetla Colony, Ashok Vihar Phase II, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.480318199999996,
+        "X_geocoded": 77.0341376
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08003740000001,
+          28.473000000000003
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47321','77.08415']",
+        "Destinatio": "['28.47321','77.08008']",
+        "Duration_m": 4.3,
+        "Address": "3224, DLF City IV, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.473000000000003,
+        "X_geocoded": 77.08003740000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0825753,
+          28.4862563
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47321','77.08415']",
+        "Destinatio": "['28.48652','77.08212']",
+        "Duration_m": 11.51666667,
+        "Address": "M-2, Mushedpur, DLF Phase 2, Sector 25, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4862563,
+        "X_geocoded": 77.0825753
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.085284,
+          28.477363
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47734','77.08568']",
+        "Destinatio": "['28.47734','77.08568']",
+        "Duration_m": 11.16666667,
+        "Address": "18, Mehrauli-Gurgaon Rd, Chakkarpur, Sector 28, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.477363,
+        "X_geocoded": 77.085284
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0991691,
+          28.4885385
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47734','77.08568']",
+        "Destinatio": "['28.48819','77.09905']",
+        "Duration_m": 16.65,
+        "Address": "B4/23, Nathupur, Sector 24, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4885385,
+        "X_geocoded": 77.0991691
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1399921,
+          28.491348
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47734','77.08568']",
+        "Destinatio": "['28.48200','77.13223']",
+        "Duration_m": 23.66666667,
+        "Address": "356, Acharya Shree Tulsi Marg, Ghitorni, New Delhi, Delhi 110030, India",
+        "mode": "driving",
+        "Y_geocoded": 28.491348,
+        "X_geocoded": 77.1399921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08309679999999,
+          28.468406899999994
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47734','77.08568']",
+        "Destinatio": "['28.46725','77.08368']",
+        "Duration_m": 11.33333333,
+        "Address": "1002, Hamilton Ct Rd, DLF City IV, Sector 28, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.468406899999994,
+        "X_geocoded": 77.08309679999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0947785,
+          28.447691100000004
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47734','77.08568']",
+        "Destinatio": "['28.46175','77.09144']",
+        "Duration_m": 9.216666667,
+        "Address": "119, DLF Phase 5, Sector 43, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.447691100000004,
+        "X_geocoded": 77.0947785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10157120000001,
+          28.448741899999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47734','77.08568']",
+        "Destinatio": "['28.44721','77.09905']",
+        "Duration_m": 16.4,
+        "Address": "BLC-143, Golf Course Road, DLF Phase 5, Sector 54, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.448741899999998,
+        "X_geocoded": 77.10157120000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0920429,
+          28.434007799999996
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47734','77.08568']",
+        "Destinatio": "['28.43329','77.09483']",
+        "Duration_m": 20.03333333,
+        "Address": "13, Jogging Track, Sector 52A, Gurugram, Haryana 122003, India",
+        "mode": "driving",
+        "Y_geocoded": 28.434007799999996,
+        "X_geocoded": 77.0920429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0820708,
+          28.420775399999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47734','77.08568']",
+        "Destinatio": "['28.42139','77.08212']",
+        "Duration_m": 20.23333333,
+        "Address": "B127, Block B, Sushant Lok III, Sector 57, Gurugram, Haryana 122413, India",
+        "mode": "driving",
+        "Y_geocoded": 28.420775399999997,
+        "X_geocoded": 77.0820708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08098299999999,
+          28.4667474
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47734','77.08568']",
+        "Destinatio": "['28.46653','77.08115']",
+        "Duration_m": 2.366666667,
+        "Address": "4306, DLF Phase IV, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4667474,
+        "X_geocoded": 77.08098299999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0746681,
+          28.461893
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47734','77.08568']",
+        "Destinatio": "['28.46175','77.07279']",
+        "Duration_m": 8.633333333,
+        "Address": "692, Sushant Lok Phase I, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.461893,
+        "X_geocoded": 77.0746681
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.05311090000001,
+          28.4590669
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47734','77.08568']",
+        "Destinatio": "['28.45987','77.05472']",
+        "Duration_m": 12.53333333,
+        "Address": "108, Silokara Rd, Vijay Vihar, Jal Vayu Vihar, Sector 30, Gurugram, Haryana 122001, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4590669,
+        "X_geocoded": 77.05311090000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04181,
+          28.467531
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47734','77.08568']",
+        "Destinatio": "['28.46770','77.04096']",
+        "Duration_m": 14.6,
+        "Address": "351/2 1st floor, Mehrauli Rd, Anamika Enclave, Sector 14, Gurugram, Haryana 122001, India",
+        "mode": "driving",
+        "Y_geocoded": 28.467531,
+        "X_geocoded": 77.04181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0305919,
+          28.4807474
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47734','77.08568']",
+        "Destinatio": "['28.48200','77.03201']",
+        "Duration_m": 22.91666667,
+        "Address": "Gali Number 3, Block B, Sheetla Colony, Ashok Vihar Phase II, Gurugram, Haryana 122006, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4807474,
+        "X_geocoded": 77.0305919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0815292,
+          28.4689452
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47734','77.08568']",
+        "Destinatio": "['28.46887','77.08115']",
+        "Duration_m": 2.2,
+        "Address": "1314, DLF City IV, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4689452,
+        "X_geocoded": 77.0815292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.078057,
+          28.4774
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47734','77.08568']",
+        "Destinatio": "['28.47734','77.07856']",
+        "Duration_m": 6.916666667,
+        "Address": "216, Indian Airlines Pilots Society, Sushant Lok Phase I, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4774,
+        "X_geocoded": 77.078057
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0824713,
+          28.4930662
+        ]
+      },
+      "properties": {
+        "Origin": "['28.47734','77.08568']",
+        "Destinatio": "['28.49303','77.08212']",
+        "Duration_m": 12.41666667,
+        "Address": "56, Delhi - Jaipur Expy, Udyog Vihar Phase IV, Sector 18, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4930662,
+        "X_geocoded": 77.0824713
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0904306,
+          28.4816333
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48147','77.08720']",
+        "Destinatio": "['28.48147','77.08720']",
+        "Duration_m": 13.26666667,
+        "Address": "J-11, Heritage City, Sector 25, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4816333,
+        "X_geocoded": 77.0904306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1010983,
+          28.4911184
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48147','77.08720']",
+        "Destinatio": "['28.49112','77.10147']",
+        "Duration_m": 23.05,
+        "Address": "A-8/4, DLF Phase 3, Sector 24, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4911184,
+        "X_geocoded": 77.1010983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.138257,
+          28.482702000000003
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48147','77.08720']",
+        "Destinatio": "['28.48334','77.13693']",
+        "Duration_m": 23.65,
+        "Address": "Unnamed Road, Aya Nagar Phase 1, Aya Nagar, New Delhi, Delhi 110047, India",
+        "mode": "driving",
+        "Y_geocoded": 28.482702000000003,
+        "X_geocoded": 77.138257
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0867005,
+          28.465713300000004
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48147','77.08720']",
+        "Destinatio": "['28.46658','77.08603']",
+        "Duration_m": 11.18333333,
+        "Address": "Regency Park Road, DLF Phase IV, Gurugram, Haryana 122009, India",
+        "mode": "driving",
+        "Y_geocoded": 28.465713300000004,
+        "X_geocoded": 77.0867005
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0971153,
+          28.4565145
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48147','77.08720']",
+        "Destinatio": "['28.45919','77.09543']",
+        "Duration_m": 10.73333333,
+        "Address": "Golf Course Road, DLF Phase 5, Sector 43, Gurugram, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4565145,
+        "X_geocoded": 77.0971153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10505909999999,
+          28.4458315
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48147','77.08720']",
+        "Destinatio": "['28.44428','77.10147']",
+        "Duration_m": 14.71666667,
+        "Address": "Park Dr, DLF Phase 5, Sector 54, Gurugram, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4458315,
+        "X_geocoded": 77.10505909999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0959032,
+          28.429703000000003
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48147','77.08720']",
+        "Destinatio": "['28.43054','77.09585']",
+        "Duration_m": 14.93333333,
+        "Address": "M Block, Jalvayu Towers, Sector 56, Gurugram, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.429703000000003,
+        "X_geocoded": 77.0959032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0810546,
+          28.417037800000003
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48147','77.08720']",
+        "Destinatio": "['28.41705','77.08212']",
+        "Duration_m": 21.0,
+        "Address": "A-59, Sushant Lok III, Block A, Sushant Lok III, Sector 57, Gurugram, Haryana 122413, India",
+        "mode": "driving",
+        "Y_geocoded": 28.417037800000003,
+        "X_geocoded": 77.0810546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0797786,
+          28.4637142
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48147','77.08720']",
+        "Destinatio": "['28.46477','77.07970']",
+        "Duration_m": 3.583333333,
+        "Address": "4101, Ashoka Marg, Block B, Sector 43, Gurugram, Haryana 122009, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4637142,
+        "X_geocoded": 77.0797786
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06835799999999,
+          28.459293
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48147','77.08720']",
+        "Destinatio": "['28.45919','77.06880']",
+        "Duration_m": 7.966666667,
+        "Address": "4, Block E, South City I, Sector 41, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.459293,
+        "X_geocoded": 77.06835799999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.052736,
+          28.4616957
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48147','77.08720']",
+        "Destinatio": "['28.45875','77.05081']",
+        "Duration_m": 11.0,
+        "Address": "30, Delhi - Jaipur Expy, Block A, Sector 30, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4616957,
+        "X_geocoded": 77.052736
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.03753209999999,
+          28.4679863
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48147','77.08720']",
+        "Destinatio": "['28.46769','77.03767']",
+        "Duration_m": 16.05,
+        "Address": "304/2, Delhi Rd, Anamika Enclave, Sector 14, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4679863,
+        "X_geocoded": 77.03753209999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0262205,
+          28.486007300000004
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48147','77.08720']",
+        "Destinatio": "['28.48334','77.02731']",
+        "Duration_m": 22.48333333,
+        "Address": "Block - E, Sheetla Colony, Ashok Vihar Phase II, Gurugram, Haryana 122017, India",
+        "mode": "driving",
+        "Y_geocoded": 28.486007300000004,
+        "X_geocoded": 77.0262205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0799147,
+          28.4704091
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48147','77.08720']",
+        "Destinatio": "['28.47063','77.07970']",
+        "Duration_m": 2.733333333,
+        "Address": "3601, DLF City IV, Sector 28, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4704091,
+        "X_geocoded": 77.0799147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.083115,
+          28.480752000000003
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48147','77.08720']",
+        "Destinatio": "['28.48147','77.07703']",
+        "Duration_m": 9.183333333,
+        "Address": "L-22/2, L 15 Rd, Heritage City, Sector 25, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.480752000000003,
+        "X_geocoded": 77.083115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08221040000001,
+          28.496757300000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48147','77.08720']",
+        "Destinatio": "['28.49665','77.08212']",
+        "Duration_m": 14.15,
+        "Address": "240, Udyog Vihar Phase IV, Sector 18, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.496757300000002,
+        "X_geocoded": 77.08221040000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0888067,
+          28.4862934
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48559','77.08873']",
+        "Destinatio": "['28.48559','77.08873']",
+        "Duration_m": 14.56666667,
+        "Address": "1, P-4 Lane, DLF Phase 2, Sector 25, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4862934,
+        "X_geocoded": 77.0888067
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10363559999999,
+          28.493299800000003
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48559','77.08873']",
+        "Destinatio": "['28.49346','77.10341']",
+        "Duration_m": 21.26666667,
+        "Address": "U/5/61, Moulsari Ave, DLF Phase 3, Sector 24, Gurugram, Haryana 122010, India",
+        "mode": "driving",
+        "Y_geocoded": 28.493299800000003,
+        "X_geocoded": 77.10363559999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0887679,
+          28.465961800000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48559','77.08873']",
+        "Destinatio": "['28.46591','77.08838']",
+        "Duration_m": 12.58333333,
+        "Address": "333, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.465961800000002,
+        "X_geocoded": 77.0887679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1082444,
+          28.458042300000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48559','77.08873']",
+        "Destinatio": "['28.45664','77.09943']",
+        "Duration_m": 18.01666667,
+        "Address": "Sector 42, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.458042300000002,
+        "X_geocoded": 77.1082444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10157120000001,
+          28.448741899999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48559','77.08873']",
+        "Destinatio": "['28.44194','77.10340']",
+        "Duration_m": 14.93333333,
+        "Address": "BLC-143, Golf Course Road, DLF Phase 5, Sector 54, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.448741899999998,
+        "X_geocoded": 77.10157120000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0972479,
+          28.426388
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48559','77.08873']",
+        "Destinatio": "['28.42641','77.09737']",
+        "Duration_m": 17.76666667,
+        "Address": "516, Block B, Sector 56, Gurugram, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.426388,
+        "X_geocoded": 77.0972479
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0836777,
+          28.4065682
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48559','77.08873']",
+        "Destinatio": "['28.40981','77.08212']",
+        "Duration_m": 23.93333333,
+        "Address": "Nangli Umarpur Road, Ullahawas, Sector 62, Gurugram, Haryana 122005, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4065682,
+        "X_geocoded": 77.0836777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.07815500000001,
+          28.462982
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48559','77.08873']",
+        "Destinatio": "['28.46302','77.07825']",
+        "Duration_m": 5.216666667,
+        "Address": "221, Sushant Lok Phase I, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.462982,
+        "X_geocoded": 77.07815500000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06652,
+          28.458338399999995
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48559','77.08873']",
+        "Destinatio": "['28.45664','77.06480']",
+        "Duration_m": 11.65,
+        "Address": "G-66, Block G, South City I, Sector 41, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.458338399999995,
+        "X_geocoded": 77.06652
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.048812,
+          28.457016999999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48559','77.08873']",
+        "Destinatio": "['28.45786','77.04767']",
+        "Duration_m": 10.16666667,
+        "Address": "5, Delhi - Jaipur Expy, Sector 31, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.457016999999997,
+        "X_geocoded": 77.048812
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.03281199999999,
+          28.467948
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48559','77.08873']",
+        "Destinatio": "['28.46769','77.03273']",
+        "Duration_m": 18.8,
+        "Address": "46/1, Block B, Acharya Puri, Sector 12, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.467948,
+        "X_geocoded": 77.03281199999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.01980350000001,
+          28.4853724
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48559','77.08873']",
+        "Destinatio": "['28.48558','77.01948']",
+        "Duration_m": 21.31666667,
+        "Address": "Sector-5 Chowk, Ashok Vihar, Sector 3, Gurugram, Haryana 122006, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4853724,
+        "X_geocoded": 77.01980350000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0767557,
+          28.463441200000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48559','77.08873']",
+        "Destinatio": "['28.47239','77.07825']",
+        "Duration_m": 4.416666667,
+        "Address": "878A, Block A, Sushant Lok Phase I, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.463441200000002,
+        "X_geocoded": 77.0767557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.074833,
+          28.485778000000003
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48559','77.08873']",
+        "Destinatio": "['28.48559','77.07550']",
+        "Duration_m": 14.8,
+        "Address": "20, Delhi - Jaipur Expy, Sector 18, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.485778000000003,
+        "X_geocoded": 77.074833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0855003,
+          28.500350899999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.48559','77.08873']",
+        "Destinatio": "['28.49954','77.08212']",
+        "Duration_m": 17.0,
+        "Address": "31, Udyog Vihar, Phase V, Sector 19, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.500350899999997,
+        "X_geocoded": 77.0855003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10645059999999,
+          28.4964602
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49179','77.09102']",
+        "Destinatio": "['28.49697','77.10632']",
+        "Duration_m": 22.83333333,
+        "Address": "Lane Number V-19, DLF Phase 3, Sector 24, Gurugram, Haryana 122010, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4964602,
+        "X_geocoded": 77.10645059999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08309679999999,
+          28.468406899999994
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49179','77.09102']",
+        "Destinatio": "['28.46770','77.08376']",
+        "Duration_m": 11.01666667,
+        "Address": "1002, Hamilton Ct Rd, DLF City IV, Sector 28, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.468406899999994,
+        "X_geocoded": 77.08309679999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0933145,
+          28.464051899999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49179','77.09102']",
+        "Destinatio": "['28.46457','77.09308']",
+        "Duration_m": 10.68333333,
+        "Address": "588, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.464051899999998,
+        "X_geocoded": 77.0933145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10201529999999,
+          28.4517125
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49179','77.09102']",
+        "Destinatio": "['28.45281','77.10542']",
+        "Duration_m": 15.71666667,
+        "Address": "Golf Dr, Sector 42, Gurugram, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4517125,
+        "X_geocoded": 77.10201529999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1050012,
+          28.437094800000004
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49179','77.09102']",
+        "Destinatio": "['28.43843','77.10630']",
+        "Duration_m": 17.48333333,
+        "Address": "La Lagune - Suncity Project, Golf Course Road, Suncity, Sector 54, Gurugram, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.437094800000004,
+        "X_geocoded": 77.1050012
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.09818259999999,
+          28.423419
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49179','77.09102']",
+        "Destinatio": "['28.42366','77.09839']",
+        "Duration_m": 17.93333333,
+        "Address": "C-147, Sushant Lok 2, Sector 56, Gurugram, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.423419,
+        "X_geocoded": 77.09818259999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0815493,
+          28.466062400000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49179','77.09102']",
+        "Destinatio": "['28.46633','77.08161']",
+        "Duration_m": 2.566666667,
+        "Address": "4313, DLF Phase IV, Gurugram, Haryana 122009, India",
+        "mode": "driving",
+        "Y_geocoded": 28.466062400000002,
+        "X_geocoded": 77.0815493
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0751531,
+          28.459432899999996
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49179','77.09102']",
+        "Destinatio": "['28.45951','77.07534']",
+        "Duration_m": 5.166666667,
+        "Address": "B-583, Sector 30 M Wide Main Rd, Sushant Lok Phase I, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.459432899999996,
+        "X_geocoded": 77.0751531
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.05876070000001,
+          28.4528668
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49179','77.09102']",
+        "Destinatio": "['28.45281','77.05881']",
+        "Duration_m": 12.11666667,
+        "Address": "86, Block N, Pocket N, Sector 40, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4528668,
+        "X_geocoded": 77.05876070000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0445895,
+          28.461491
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49179','77.09102']",
+        "Destinatio": "['28.45652','77.04298']",
+        "Duration_m": 15.41666667,
+        "Address": "715, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.461491,
+        "X_geocoded": 77.0445895
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0295816,
+          28.4677245
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49179','77.09102']",
+        "Destinatio": "['28.46769','77.02944']",
+        "Duration_m": 21.56666667,
+        "Address": "220/2, Lajpat Nagar, Block A, Mianwali Colony, Sector 12, Gurugram, Haryana 122001, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4677245,
+        "X_geocoded": 77.0295816
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0826715,
+          28.4679614
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49179','77.09102']",
+        "Destinatio": "['28.46855','77.08079']",
+        "Duration_m": 1.816666667,
+        "Address": "Hamilton Ct Rd, DLF Phase IV, Sector 28, Gurugram, Haryana 122009, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4679614,
+        "X_geocoded": 77.0826715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.07565809999998,
+          28.475870299999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49179','77.09102']",
+        "Destinatio": "['28.47590','77.07534']",
+        "Duration_m": 5.466666667,
+        "Address": "12, Phase 1, Indian Airlines Pilots Society, Sushant Lok Phase I, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.475870299999997,
+        "X_geocoded": 77.07565809999998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0751538,
+          28.5079338
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49179','77.09102']",
+        "Destinatio": "['28.50388','77.08212']",
+        "Duration_m": 21.76666667,
+        "Address": "IDPL Twp, Sector 22A, Sector 19, Gurugram, Haryana 122016, India",
+        "mode": "driving",
+        "Y_geocoded": 28.5079338,
+        "X_geocoded": 77.0751538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.091205,
+          28.494333
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49523','77.09229']",
+        "Destinatio": "['28.49523','77.09229']",
+        "Duration_m": 20.03333333,
+        "Address": "26, DLF Tower 8th Rd, DLF Cyber City, DLF Phase 2, Sector 24, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.494333,
+        "X_geocoded": 77.091205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08572640000001,
+          28.468003399999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49523','77.09229']",
+        "Destinatio": "['28.46770','77.08623']",
+        "Duration_m": 1.833333333,
+        "Address": "1003, Hamilton Ct Rd, DLF Phase IV, Sector 28, Gurugram, Haryana 122009, India",
+        "mode": "driving",
+        "Y_geocoded": 28.468003399999997,
+        "X_geocoded": 77.08572640000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10145820000001,
+          28.4637886
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49523','77.09229']",
+        "Destinatio": "['28.46323','77.09777']",
+        "Duration_m": 11.58333333,
+        "Address": "Sunset Blvd, Sector 42, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4637886,
+        "X_geocoded": 77.10145820000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1111214,
+          28.438232199999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49523','77.09229']",
+        "Destinatio": "['28.45069','77.10875']",
+        "Duration_m": 14.43333333,
+        "Address": "Sector 54, Gurugram, Haryana, India",
+        "mode": "driving",
+        "Y_geocoded": 28.438232199999998,
+        "X_geocoded": 77.1111214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10851459999999,
+          28.4353524
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49523','77.09229']",
+        "Destinatio": "['28.43609','77.10824']",
+        "Duration_m": 18.5,
+        "Address": "B-54, Golf Course Road, Suncity, Sector 54, Haiderpur, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4353524,
+        "X_geocoded": 77.10851459999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10069190000002,
+          28.4196558
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49523','77.09229']",
+        "Destinatio": "['28.41953','77.09991']",
+        "Duration_m": 19.48333333,
+        "Address": "Adharshila Apartments, Vigyan Vihar, Sector 56, Gurugram, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4196558,
+        "X_geocoded": 77.10069190000002
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.079502,
+          28.463715000000004
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49523','77.09229']",
+        "Destinatio": "['28.46426','77.08085']",
+        "Duration_m": 11.05,
+        "Address": "4101, Ashoka Marg, Sushant Lok Phase I, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.463715000000004,
+        "X_geocoded": 77.079502
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0773906,
+          28.448330100000003
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49523','77.09229']",
+        "Destinatio": "['28.45599','77.07244']",
+        "Duration_m": 8.6,
+        "Address": "31, Sector 44, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.448330100000003,
+        "X_geocoded": 77.0773906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.05463490000001,
+          28.451911199999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49523','77.09229']",
+        "Destinatio": "['28.45069','77.05548']",
+        "Duration_m": 14.01666667,
+        "Address": "449, Sector 40, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.451911199999998,
+        "X_geocoded": 77.05463490000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0394426,
+          28.456124
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49523','77.09229']",
+        "Destinatio": "['28.45562','77.03985']",
+        "Duration_m": 14.81666667,
+        "Address": "145-160, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
+        "mode": "driving",
+        "Y_geocoded": 28.456124,
+        "X_geocoded": 77.0394426
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.02399270000001,
+          28.468317499999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49523','77.09229']",
+        "Destinatio": "['28.46769','77.02450']",
+        "Duration_m": 21.93333333,
+        "Address": "208A/9, Subhash Nagar, Sector 8, Gurugram, Haryana 122001, India",
+        "mode": "driving",
+        "Y_geocoded": 28.468317499999998,
+        "X_geocoded": 77.02399270000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0767557,
+          28.463441200000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49523','77.09229']",
+        "Destinatio": "['28.46983','77.07879']",
+        "Duration_m": 3.216666667,
+        "Address": "3903, Block A, Sushant Lok Phase I, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.463441200000002,
+        "X_geocoded": 77.0767557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0732245,
+          28.4795196
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49523','77.09229']",
+        "Destinatio": "['28.47941','77.07244']",
+        "Duration_m": 8.8,
+        "Address": "L-18/1, Heritage City, Sector 25, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4795196,
+        "X_geocoded": 77.0732245
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0680344,
+          28.492957399999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49523','77.09229']",
+        "Destinatio": "['28.49523','77.07194']",
+        "Duration_m": 16.88333333,
+        "Address": "MSIL Internal Rd, Maruti Udyog, Sector 18, Gurugram, Haryana 122008, India",
+        "mode": "driving",
+        "Y_geocoded": 28.492957399999998,
+        "X_geocoded": 77.0680344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08338309999999,
+          28.507225199999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49523','77.09229']",
+        "Destinatio": "['28.50678','77.08212']",
+        "Duration_m": 16.48333333,
+        "Address": "230, Shankar Chowk Rd, Udyog Vihar Phase 1, Sector 20, Gurugram, Haryana 122016, India",
+        "mode": "driving",
+        "Y_geocoded": 28.507225199999997,
+        "X_geocoded": 77.08338309999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.09366059999999,
+          28.497580499999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49798','77.09331']",
+        "Destinatio": "['28.49798','77.09331']",
+        "Duration_m": 16.21666667,
+        "Address": "Ericsson - Mercer, DLF Cyber City, DLF Phase 2, Sector 24, Gurugram, Haryana 122010, India",
+        "mode": "driving",
+        "Y_geocoded": 28.497580499999998,
+        "X_geocoded": 77.09366059999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08572640000001,
+          28.468003399999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49798','77.09331']",
+        "Destinatio": "['28.46770','77.08870']",
+        "Duration_m": 11.16666667,
+        "Address": "1003, Hamilton Ct Rd, DLF Phase IV, Sector 28, Gurugram, Haryana 122009, India",
+        "mode": "driving",
+        "Y_geocoded": 28.468003399999997,
+        "X_geocoded": 77.08572640000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1035839,
+          28.462861600000004
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49798','77.09331']",
+        "Destinatio": "['28.46189','77.10247']",
+        "Duration_m": 12.66666667,
+        "Address": "641p, Internal Sector Road, Sector 42, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.462861600000004,
+        "X_geocoded": 77.1035839
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1089743,
+          28.4327604
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49798','77.09331']",
+        "Destinatio": "['28.43257','77.11114']",
+        "Duration_m": 20.43333333,
+        "Address": "82, Suncity Heights, Suncity, Sector 54, Gurugram, Haryana 122011, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4327604,
+        "X_geocoded": 77.1089743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.079493,
+          28.461952
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49798','77.09331']",
+        "Destinatio": "['28.46220','77.08008']",
+        "Duration_m": 5.05,
+        "Address": "90, Ashoka Marg, Sushant Lok Phase I, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.461952,
+        "X_geocoded": 77.079493
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.075571,
+          28.451712100000005
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49798','77.09331']",
+        "Destinatio": "['28.45248','77.06954']",
+        "Duration_m": 9.216666667,
+        "Address": "55, Sector 44, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.451712100000005,
+        "X_geocoded": 77.075571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0527634,
+          28.448973499999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49798','77.09331']",
+        "Destinatio": "['28.44898','77.05282']",
+        "Duration_m": 15.36666667,
+        "Address": "124, Mohyal Colony, Sector 40, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.448973499999997,
+        "X_geocoded": 77.0527634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.035314,
+          28.454335999999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49798','77.09331']",
+        "Destinatio": "['28.45428','77.03515']",
+        "Duration_m": 19.3,
+        "Address": "27, Officers Colony, Civil Lines, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.454335999999998,
+        "X_geocoded": 77.035314
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0767557,
+          28.463441200000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49798','77.09331']",
+        "Destinatio": "['28.47110','77.07679']",
+        "Duration_m": 4.75,
+        "Address": "841A, Block A, Sushant Lok Phase I, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.463441200000002,
+        "X_geocoded": 77.0767557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0671796,
+          28.481545
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49798','77.09331']",
+        "Destinatio": "['28.48292','77.06954']",
+        "Duration_m": 11.1,
+        "Address": "82, Sector 18, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.481545,
+        "X_geocoded": 77.0671796
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0680344,
+          28.492957399999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49798','77.09331']",
+        "Destinatio": "['28.49798','77.07092']",
+        "Duration_m": 18.3,
+        "Address": "MSIL Internal Rd, Maruti Udyog, Sector 18, Gurugram, Haryana 122008, India",
+        "mode": "driving",
+        "Y_geocoded": 28.492957399999998,
+        "X_geocoded": 77.0680344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.082043,
+          28.511028000000003
+        ]
+      },
+      "properties": {
+        "Origin": "['28.49798','77.09331']",
+        "Destinatio": "['28.51112','77.08212']",
+        "Duration_m": 18.21666667,
+        "Address": "164, Udyog Vihar Phase 1, Sector 20, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.511028000000003,
+        "X_geocoded": 77.082043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08309679999999,
+          28.468406899999994
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50211','77.09484']",
+        "Destinatio": "['28.46815','77.08368']",
+        "Duration_m": 1.133333333,
+        "Address": "1002, Hamilton Ct Rd, DLF City IV, Sector 28, Gurugram, Haryana 122002, India",
+        "mode": "driving",
+        "Y_geocoded": 28.468406899999994,
+        "X_geocoded": 77.08309679999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0841503,
+          28.4679758
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50211','77.09484']",
+        "Destinatio": "['28.46770','77.09364']",
+        "Duration_m": 11.63333333,
+        "Address": "Hamilton Ct Rd, Gurugram, Haryana 122009, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4679758,
+        "X_geocoded": 77.0841503
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1111214,
+          28.461187300000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50211','77.09484']",
+        "Destinatio": "['28.45987','77.10951']",
+        "Duration_m": 14.08333333,
+        "Address": "DLF Golf Course, Sector 42, Gurugram, Haryana, India",
+        "mode": "driving",
+        "Y_geocoded": 28.461187300000002,
+        "X_geocoded": 77.1111214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1111214,
+          28.438232199999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50211','77.09484']",
+        "Destinatio": "['28.44643','77.11541']",
+        "Duration_m": 22.06666667,
+        "Address": "Sector 54, Gurugram, Haryana, India",
+        "mode": "driving",
+        "Y_geocoded": 28.438232199999998,
+        "X_geocoded": 77.1111214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1077539,
+          28.429243100000004
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50211','77.09484']",
+        "Destinatio": "['28.43023','77.11307']",
+        "Duration_m": 19.76666667,
+        "Address": "Huda, Sushant Lok 2, Sector 55, Gurugram, Haryana 122003, India",
+        "mode": "driving",
+        "Y_geocoded": 28.429243100000004,
+        "X_geocoded": 77.1077539
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.082329,
+          28.466784999999998
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50211','77.09484']",
+        "Destinatio": "['28.46625','77.08212']",
+        "Duration_m": 2.783333333,
+        "Address": "4303, DLF Phase IV, Sector 27, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.466784999999998,
+        "X_geocoded": 77.082329
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0767557,
+          28.463441200000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50211','77.09484']",
+        "Destinatio": "['28.45807','77.07856']",
+        "Duration_m": 7.066666667000001,
+        "Address": "58, Block C, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.463441200000002,
+        "X_geocoded": 77.0767557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.065393,
+          28.44727
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50211','77.09484']",
+        "Destinatio": "['28.44721','77.06519']",
+        "Duration_m": 11.5,
+        "Address": "1663, Block A, Greenwood City, Sector 45, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.44727,
+        "X_geocoded": 77.065393
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.048548,
+          28.445338
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50211','77.09484']",
+        "Destinatio": "['28.44643','77.04883']",
+        "Duration_m": 15.3,
+        "Address": "H-28, Jharsa Rd, Jharsa, Sector 39, Gurugram, Haryana 122018, India",
+        "mode": "driving",
+        "Y_geocoded": 28.445338,
+        "X_geocoded": 77.048548
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.03160390000001,
+          28.453295299999997
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50211','77.09484']",
+        "Destinatio": "['28.45338','77.03202']",
+        "Duration_m": 20.73333333,
+        "Address": "Peer Baba Wali Gali, Shivaji Nagar, Gurugram, Haryana 122007, India",
+        "mode": "driving",
+        "Y_geocoded": 28.453295299999997,
+        "X_geocoded": 77.03160390000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0826715,
+          28.4679614
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50211','77.09484']",
+        "Destinatio": "['28.46815','77.08055']",
+        "Duration_m": 1.2,
+        "Address": "Hamilton Ct Rd, DLF Phase IV, Sector 28, Gurugram, Haryana 122009, India",
+        "mode": "driving",
+        "Y_geocoded": 28.4679614,
+        "X_geocoded": 77.0826715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0767557,
+          28.463441200000002
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50211','77.09484']",
+        "Destinatio": "['28.47366','77.07279']",
+        "Duration_m": 5.716666667,
+        "Address": "504, Block A, Sushant Lok Phase I, Sector 28, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.463441200000002,
+        "X_geocoded": 77.0767557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.064766,
+          28.487464000000003
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50211','77.09484']",
+        "Destinatio": "['28.48819','77.06518']",
+        "Duration_m": 12.75,
+        "Address": "75C, WAPCOS Rd, Sector 18, Gurugram, Haryana 122008, India",
+        "mode": "driving",
+        "Y_geocoded": 28.487464000000003,
+        "X_geocoded": 77.064766
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.07003950000001,
+          28.501786600000003
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50211','77.09484']",
+        "Destinatio": "['28.50211','77.06939']",
+        "Duration_m": 19.21666667,
+        "Address": "38, Electronic City, Udyog Vihar Phase IV, Sector 18, Gurugram, Haryana 122015, India",
+        "mode": "driving",
+        "Y_geocoded": 28.501786600000003,
+        "X_geocoded": 77.07003950000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0824424,
+          28.5130093
+        ]
+      },
+      "properties": {
+        "Origin": "['28.50211','77.09484']",
+        "Destinatio": "['28.51401','77.08212']",
+        "Duration_m": 19.6,
+        "Address": "117, Udyog Vihar III, Sector 20, Gurugram, Haryana 122022, India",
+        "mode": "driving",
+        "Y_geocoded": 28.5130093,
+        "X_geocoded": 77.0824424
+      }
+    }
+  ]
+}
