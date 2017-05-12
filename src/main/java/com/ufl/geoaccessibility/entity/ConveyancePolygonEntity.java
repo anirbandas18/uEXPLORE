@@ -3,46 +3,47 @@ package com.ufl.geoaccessibility.entity;
 import java.util.List;
 
 import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.index.CompoundIndex;
 import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.mongodb.core.mapping.Field;
 
+@CompoundIndex(name = "id", def = "{'id.requestedBy' : 1, 'id.requestedAt' : -1}", unique = true, sparse = true)
 @Document(collection = "ConveyancePolygon")
 public class ConveyancePolygonEntity {
-	
+
 	@Id
-	private String id;
+	private ConveyancePolygonCompoundId id;
 	private String mode;
-	private Requestor requestor;
 	@Field(value = "timeArea")
-	private List<TimeArea> timeAreas;
-	public String getId() {
-		return id;
-	}
-	public void setId(String id) {
-		this.id = id;
-	}
+	private List<ConveyancePolygonTimeArea> timeAreas;
+
 	public String getMode() {
 		return mode;
 	}
+
 	public void setMode(String mode) {
 		this.mode = mode;
 	}
-	public Requestor getRequestor() {
-		return requestor;
+
+	public ConveyancePolygonCompoundId getId() {
+		return id;
 	}
-	public void setRequestor(Requestor requestor) {
-		this.requestor = requestor;
+
+	public void setId(ConveyancePolygonCompoundId id) {
+		this.id = id;
 	}
-	public List<TimeArea> getTimeAreas() {
+
+	public List<ConveyancePolygonTimeArea> getTimeAreas() {
 		return timeAreas;
 	}
-	public void setTimeAreas(List<TimeArea> timeAreas) {
+
+	public void setTimeAreas(List<ConveyancePolygonTimeArea> timeAreas) {
 		this.timeAreas = timeAreas;
 	}
+
 	@Override
 	public String toString() {
-		return "ConveyancePolygonEntity [id=" + id + ", mode=" + mode + ", requestor=" + requestor + ", timeAreas="
-				+ timeAreas + "]";
+		return "ConveyancePolygonEntity [id=" + id + ", mode=" + mode + ", timeAreas=" + timeAreas + "]";
 	}
-	
+
 }
