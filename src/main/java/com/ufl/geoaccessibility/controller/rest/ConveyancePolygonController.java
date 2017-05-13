@@ -1,4 +1,4 @@
-package com.ufl.geoaccessibility.controller;
+package com.ufl.geoaccessibility.controller.rest;
 
 import org.springframework.stereotype.Controller;
 
