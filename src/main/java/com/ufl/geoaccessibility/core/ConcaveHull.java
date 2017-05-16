@@ -1,6 +1,7 @@
 package com.ufl.geoaccessibility.core;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashSet;
@@ -13,7 +14,8 @@ import javafx.util.Pair;
 
 @Component
 public class ConcaveHull {
-
+	
+	
     private Double euclideanDistance(LngLatAlt a, LngLatAlt b) {
         return Math.sqrt(Math.pow(a.getLongitude() - b.getLongitude(), 2) + Math.pow(a.getLatitude() - b.getLatitude(), 2));
     }
@@ -131,10 +133,10 @@ public class ConcaveHull {
         return result;
     }
     
-    public List<LngLatAlt> calculateConcaveHull(List<LngLatAlt> pointArrayList, Integer k) {
+    public List<LngLatAlt> calculate(Collection<LngLatAlt> pointArrayList, Integer k) {
 
         // the resulting concave hull
-        ArrayList<LngLatAlt> concaveHull = new ArrayList<>();
+        List<LngLatAlt> concaveHull = new ArrayList<>();
 
         // optional remove duplicates
         HashSet<LngLatAlt> set = new HashSet<>(pointArrayList);
@@ -195,7 +197,7 @@ public class ConcaveHull {
 
             // if there is no candidate increase k - try again
             if (its) {
-                return calculateConcaveHull(pointArrayList, k + 1);
+                return calculate(pointArrayList, k + 1);
             }
 
             // add candidate to concave hull and remove from dataset
@@ -221,9 +223,9 @@ public class ConcaveHull {
 
         // if not all points inside -  try again
         if (!insideCheck) {
-            return calculateConcaveHull(pointArrayList, k + 1);
+            return calculate(pointArrayList, k + 1);
         } else {
-            return concaveHull;
+        	return concaveHull;
         }
 
     }
