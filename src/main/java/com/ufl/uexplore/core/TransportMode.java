@@ -1,4 +1,4 @@
-package com.ufl.geoaccessibility.core;
+package com.ufl.uexplore.core;
 
 public enum TransportMode {
 

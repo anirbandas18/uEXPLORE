@@ -1,4 +1,4 @@
-package com.ufl.geoaccessibility.controller;
+package com.ufl.uexplore.controller;
 
 import java.util.List;
 
@@ -14,9 +14,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.ufl.geoaccessibility.core.TransportMode;
-import com.ufl.geoaccessibility.dto.RequestedLocationDTO;
-import com.ufl.geoaccessibility.service.ConveyancePolygonService;
+import com.ufl.uexplore.core.TransportMode;
+import com.ufl.uexplore.dto.RequestedLocationDTO;
+import com.ufl.uexplore.service.ConveyancePolygonService;
 
 @RestController
 @RequestMapping("/{emailId}/conveyancePolygon")
@@ -28,7 +28,7 @@ public class ConveyancePolygonController {
 	@RequestMapping(method = RequestMethod.POST, value = "/{mode}")
 	public FeatureCollection getConveyancePolygon(@PathVariable String emailId, @RequestBody Feature locationPoint, @PathVariable TransportMode mode) {
 		Long timeStamp = System.currentTimeMillis();
-		// Add validation for point geometry
+		// Add validation for point type geometry
 		Point point = (Point) locationPoint.getGeometry();
 		RequestedLocationDTO location = new RequestedLocationDTO();
 		location.setEmailId(emailId);

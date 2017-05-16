@@ -1,8 +1,8 @@
-package com.ufl.geoaccessibility.dto;
+package com.ufl.uexplore.dto;
 
 import org.geojson.LngLatAlt;
 
-import com.ufl.geoaccessibility.core.TransportMode;
+import com.ufl.uexplore.core.TransportMode;
 
 public class RequestedLocationDTO {
 

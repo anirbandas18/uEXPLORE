@@ -1,4 +1,4 @@
-package com.ufl.geoaccessibility.core;
+package com.ufl.uexplore.core;
 
 import java.util.ArrayList;
 import java.util.Collection;

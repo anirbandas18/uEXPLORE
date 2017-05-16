@@ -1,4 +1,4 @@
-package com.ufl.geoaccessibility.configuration;
+package com.ufl.uexplore.configuration;
 
 import javax.jms.ConnectionFactory;
 

@@ -1,10 +1,10 @@
-package com.ufl.geoaccessibility.dao;
+package com.ufl.uexplore.dao;
 
 import java.util.List;
 
 import org.springframework.stereotype.Repository;
 
-import com.ufl.geoaccessibility.entity.ConveyancePolygonEntity;
+import com.ufl.uexplore.entity.ConveyancePolygonEntity;
 
 @Repository
 public interface ConveyancePolygonDAO {

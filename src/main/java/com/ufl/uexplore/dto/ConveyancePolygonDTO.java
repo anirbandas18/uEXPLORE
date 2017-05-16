@@ -1,4 +1,4 @@
-package com.ufl.geoaccessibility.dto;
+package com.ufl.uexplore.dto;
 
 public class ConveyancePolygonDTO {
 

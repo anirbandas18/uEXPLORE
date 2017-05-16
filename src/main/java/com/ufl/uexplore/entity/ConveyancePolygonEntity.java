@@ -1,4 +1,4 @@
-package com.ufl.geoaccessibility.entity;
+package com.ufl.uexplore.entity;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import org.springframework.data.mongodb.core.index.CompoundIndex;
 import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.mongodb.core.mapping.Field;
 
-import com.ufl.geoaccessibility.core.TransportMode;
+import com.ufl.uexplore.core.TransportMode;
 
 @CompoundIndex(name = "id", def = "{'id.requestedBy' : 1, 'id.requestedAt' : -1}", unique = true, sparse = true)
 @Document(collection = "ConveyancePolygon")

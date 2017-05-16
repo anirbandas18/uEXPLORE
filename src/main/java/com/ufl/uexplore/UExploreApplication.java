@@ -1,4 +1,4 @@
-package com.ufl.geoaccessibility;
+package com.ufl.uexplore;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -16,25 +16,20 @@ import org.springframework.context.annotation.ComponentScan;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.ufl.geoaccessibility.core.ConcaveHull;
-import com.ufl.geoaccessibility.core.TransportMode;
-import com.ufl.geoaccessibility.dao.ConveyancePolygonDAO;
-import com.ufl.geoaccessibility.dao.GeoJsonDAO;
-import com.ufl.geoaccessibility.dto.RequestedLocationDTO;
-import com.ufl.geoaccessibility.entity.ConveyancePolygonEntity;
-import com.ufl.geoaccessibility.entity.ConveyanceTimeArea;
+import com.ufl.uexplore.core.ConcaveHull;
+import com.ufl.uexplore.core.TransportMode;
+import com.ufl.uexplore.dao.GeoJsonDAO;
+import com.ufl.uexplore.dto.RequestedLocationDTO;
+import com.ufl.uexplore.entity.ConveyancePolygonEntity;
+import com.ufl.uexplore.entity.ConveyanceTimeArea;
 
 
 @SpringBootApplication	
-@ComponentScan(basePackages = {"com.ufl.geoaccessibility"})
+@ComponentScan(basePackages = {"com.ufl.uexplore"})
 public class UExploreApplication implements CommandLineRunner {
 	
 	@Autowired
 	private ObjectMapper objectMapper;
-	
-	
-	@Autowired
-	private ConveyancePolygonDAO ctaeDAO;
 	
 	@Autowired
 	private GeoJsonDAO dao;

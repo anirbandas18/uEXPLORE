@@ -1,4 +1,4 @@
-package com.ufl.geoaccessibility.entity;
+package com.ufl.uexplore.entity;
 
 import java.util.List;
 import java.util.Map;

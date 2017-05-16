@@ -1,4 +1,4 @@
-package com.ufl.geoaccessibility.controller;
+package com.ufl.uexplore.controller;
 
 public class ConveyancePolygonMessenger {
 

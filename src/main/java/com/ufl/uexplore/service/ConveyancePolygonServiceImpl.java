@@ -1,4 +1,4 @@
-package com.ufl.geoaccessibility.service;
+package com.ufl.uexplore.service;
 
 import java.util.List;
 import java.util.Map;
@@ -6,18 +6,16 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-import org.geojson.FeatureCollection;
 import org.geojson.LngLatAlt;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.jms.core.JmsTemplate;
 import org.springframework.stereotype.Component;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.ufl.geoaccessibility.core.ConcaveHull;
-import com.ufl.geoaccessibility.dto.RequestedLocationDTO;
-import com.ufl.geoaccessibility.entity.ConveyancePolygonEntity;
-import com.ufl.geoaccessibility.entity.ConveyanceTimeArea;
+import com.ufl.uexplore.core.ConcaveHull;
+import com.ufl.uexplore.dto.RequestedLocationDTO;
+import com.ufl.uexplore.entity.ConveyancePolygonEntity;
+import com.ufl.uexplore.entity.ConveyanceTimeArea;
 
 @Component
 public class ConveyancePolygonServiceImpl implements ConveyancePolygonService {
@@ -27,9 +25,6 @@ public class ConveyancePolygonServiceImpl implements ConveyancePolygonService {
 
 	@Autowired
 	private ConcaveHull concaveHull;
-	
-	@Autowired
-	private ObjectMapper objectMapper;
 
 	@Value("${jms.queue.name}")
 	private String destinationName;

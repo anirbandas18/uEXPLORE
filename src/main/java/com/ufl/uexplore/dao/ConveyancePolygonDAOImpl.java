@@ -1,4 +1,4 @@
-package com.ufl.geoaccessibility.dao;
+package com.ufl.uexplore.dao;
 
 import java.util.List;
 
@@ -9,7 +9,7 @@ import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.stereotype.Component;
 
-import com.ufl.geoaccessibility.entity.ConveyancePolygonEntity;
+import com.ufl.uexplore.entity.ConveyancePolygonEntity;
 
 @Component
 public class ConveyancePolygonDAOImpl implements ConveyancePolygonDAO {

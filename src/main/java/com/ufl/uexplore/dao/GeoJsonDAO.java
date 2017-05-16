@@ -1,4 +1,4 @@
-package com.ufl.geoaccessibility.dao;
+package com.ufl.uexplore.dao;
 
 import java.io.IOException;
 import java.io.InputStream;
